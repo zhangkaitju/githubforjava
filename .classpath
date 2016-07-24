@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/async-http-client-1.7.4.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/bridge-method-annotation-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/github-api-1.68.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/gson-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/okhttp-urlconnection-2.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/org.eclipse.jgit-3.1.0.201310021548-r.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/stapler-jetty-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/zhangkai/githubapiforjava/wordnet-random-name-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
